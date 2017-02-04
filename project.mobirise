@@ -749,19 +749,20 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Hey, I'm Barbie...<br>",
-          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span> work with ambitious entrepreneurs who have big goals <br>and dreams for their lives and buesinesses but may be <br>held backfrom the next level of sucess by fear, confusion <br>or overwhelm. &nbsp; (Sound Familiar?)<br><br><span style=\"font-style: normal;\">I help my clients become crystal clear on their vision, break </span><br><span style=\"font-style: normal;\">through their limiting beliefs, and establish habits crucial to&nbsp;</span><br><span style=\"font-style: normal;\">levelling up and reaching the next level of success they desire</span><br><span style=\"font-style: normal;\">both personally and professionally. &nbsp;We also have a kick-ass</span><br><span style=\"font-style: normal;\">time doing it.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">My favourite part of coaching is nudging you out of your&nbsp;</span><br><span style=\"font-style: normal;\">comfort zone (although sometimes I'll lovingly just push you&nbsp;</span><br><span style=\"font-style: normal;\">right out of the plane for your own good) and watching</span><br><span style=\"font-style: normal;\">you grow and transfrom yourself and business simutainously.</span><br><span style=\"font-style: normal;\">It's Magical. &nbsp;I'm not going to lie, I get a little hight form it!</span><br><span style=\"font-style: normal;\">No matter how big your dream, it's totally achievable. &nbsp;Just follow</span><br><span style=\"font-style: normal;\">the prcoess and it's yours :)<br></span><span style=\"font-style: normal;\"><br></span>",
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Hey, I'm Barbie...</span><br>",
+          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br>I work with ambitious entrepreneurs who have <b>big</b> goals and dreams <br>for their lives and buesinesses but may be held backfrom the next<br> level of sucess by </span>fear, confusion <span style=\"font-style: normal;\">or</span> overwhelm. &nbsp; <span style=\"font-style: normal;\">(Sound Familiar?)</span><br><br><span style=\"font-style: normal;\">I help my clients become crystal clear on their vision, break </span><br><span style=\"font-style: normal;\">through their limiting beliefs, and establish habits crucial to&nbsp;</span><span style=\"font-style: normal;\">levelling </span><br><span style=\"font-style: normal;\">up and reaching the next level of success they desire&nbsp;</span><span style=\"font-style: normal;\">both </span><br><span style=\"font-style: normal;\">personally and professionally. &nbsp;</span><span style=\"font-style: normal;\">We also have a kick-ass</span><span style=\"font-style: normal;\">time doing it.</span><br><br><span style=\"font-style: normal;\">My favourite part of coaching is nudging you out of your&nbsp;</span><br><span style=\"font-style: normal;\">comfort zone (although sometimes I'll lovingly just push you&nbsp;</span><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">right </span><span style=\"font-style: normal;\">out of the plane for your own good) and watching</span><br><span style=\"font-style: normal;\">you grow and transfrom yourself and business simutainously.</span><br><span style=\"font-style: normal;\">It's Magical. &nbsp;I'm not going to lie, I get a little hight form it!</span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">No matter how big your dream, it's totally achievable. &nbsp;</span><br><span style=\"font-style: normal;\">Just follow</span><span style=\"font-style: normal;\">the prcoess and it's yours :)</span><br><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-lead": {
               "color": "#000000",
-              "font-size": "17px",
+              "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "text-align": "right"
             },
             ".mbr-section-lead SPAN": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-size": "20px"
             },
             ".mbr-section-title": {
               "color": "#000000",
@@ -825,7 +826,8 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "20px"
             }
           }
         },
@@ -840,7 +842,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".lead P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "20px"
             }
           },
           "_tags": [

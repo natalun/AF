@@ -662,12 +662,13 @@ h6,
 }
 #header1-m .mbr-section-lead {
   color: #000000;
-  font-size: 17px;
+  font-size: 20px;
   font-family: 'Raleway', sans-serif;
   text-align: right;
 }
 #header1-m .mbr-section-lead SPAN {
   text-align: right;
+  font-size: 20px;
 }
 #header1-m .mbr-section-title {
   color: #000000;
@@ -676,6 +677,7 @@ h6,
 }
 #msg-box5-n P {
   text-align: left;
+  font-size: 20px;
 }
 #msg-box8-q .mbr-section-title,
 #msg-box8-q p {
@@ -687,6 +689,7 @@ h6,
 }
 #msg-box8-q .lead P {
   color: #000000;
+  font-size: 20px;
 }
 #header3-k .mbr-section-title,
 #header3-k .mbr-section-subtitle {
