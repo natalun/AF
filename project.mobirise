@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AF",
-    "currentPage": "Home.html",
+    "currentPage": "connect.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -320,13 +320,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8f2625"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ac2e2c!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b8312f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -367,7 +367,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-337x128.png",
+              "src": "@PROJECT_PATH@/assets/images/accelerateforward-logo-final-stacked-full-337x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
