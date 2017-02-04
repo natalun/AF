@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AF",
-    "currentPage": "MyStory.html",
+    "currentPage": "connect.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -193,7 +193,7 @@
           },
           "title": "&nbsp;Who I work with...",
           "text": "My clients are highly motivated entrepreneurs with ambitious goals.  They want to live life on their own terms but may have so much on the go that they may feel overwhelmed and unclear at times.   They undersatnd that in order to grow their business to new heights they must first invest in and grow themselves.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>"
         },
         {
           "_tags": [
@@ -211,7 +211,7 @@
             "SMALL": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#b8312f"
+              "color": "#e6532f"
             }
           },
           "_anchor": "form1-a",
