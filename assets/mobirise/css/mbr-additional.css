@@ -571,3 +571,111 @@ h6,
 #testimonials3-d .mbr-author-name {
   color: #ccc;
 }
+
+
+
+
+
+
+#menu-f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-f .navbar-caption {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+}
+#menu-f .navbar-toggler {
+  color: #000000;
+}
+#menu-f .close-icon::before,
+#menu-f .close-icon::after {
+  background-color: #000000;
+}
+#menu-f .link,
+#menu-f .dropdown-item {
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#menu-f .link {
+  font-size: 1.15rem;
+}
+#menu-f .dropdown-item,
+#menu-f .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#menu-f .link:hover,
+#menu-f .dropdown-item:hover,
+#menu-f .link:focus,
+#menu-f .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-f .link[aria-expanded="true"],
+#menu-f .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-f .nav-dropdown-sm .link:focus,
+#menu-f .nav-dropdown-sm .link:hover,
+#menu-f .nav-dropdown-sm .dropdown-item:focus,
+#menu-f .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-f .navbar,
+#menu-f .nav-dropdown-sm,
+#menu-f .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-f .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-f .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-f .bg-color.transparent.opened .link:hover,
+#menu-f .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-f .link[aria-expanded="true"],
+#menu-f .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#msg-box8-j .mbr-section-title,
+#msg-box8-j p {
+  color: #fff;
+}
+#msg-box8-j .mbr-section-title {
+  font-family: 'Lora', serif;
+  color: #000000;
+}
+#msg-box8-j .lead P {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#header1-m .mbr-section-lead {
+  color: #000000;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+  text-align: right;
+}
+#header1-m .mbr-section-lead SPAN {
+  text-align: right;
+}
+#msg-box5-n P {
+  text-align: left;
+}
+#msg-box8-q .mbr-section-title,
+#msg-box8-q p {
+  color: #fff;
+}
+#msg-box8-q .mbr-section-title {
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#msg-box8-q .lead P {
+  color: #000000;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
