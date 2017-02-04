@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AF",
-    "currentPage": "successstories.html",
+    "currentPage": "MyStory.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -703,29 +703,6 @@
           "title": "",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#e6532f"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-s",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#e55700",
-            "showMeta": false
-          },
-          "title": "f",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
