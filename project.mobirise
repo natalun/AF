@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "NewSite-02-03_1735",
-    "currentPage": "MyStory.html",
+    "name": "AF",
+    "currentPage": "connect.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,10 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 29,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 37,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "connect.html": {
