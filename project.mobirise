@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1735",
-    "currentPage": "successstories.html",
+    "currentPage": "connect.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#8f2625"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ac2e2c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#b8312f"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -94,7 +94,7 @@
           "_name": "menu",
           "_anchor": "menu-3",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#b8312f",
             "fontSize": "1.15",
             "fontName": {
               "name": "Lora",
@@ -230,7 +230,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Shape your future.",
           "form": {
-            "action": "npbenton@hotmail.com",
+            "action": "barbie.perry@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -317,13 +317,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#8f2625"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#ac2e2c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#b8312f"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -345,7 +345,7 @@
           "_name": "menu",
           "_anchor": "menu-b",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#b8312f",
             "fontSize": "1.15",
             "fontName": {
               "name": "Lora",
@@ -602,7 +602,7 @@
           "_name": "menu",
           "_anchor": "menu-f",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#b8312f",
             "fontSize": "1.15",
             "fontName": {
               "name": "Lora",
