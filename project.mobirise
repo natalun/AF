@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1735",
-    "currentPage": "MyStory.html",
+    "currentPage": "connect.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -134,6 +134,18 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "72px"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "22px"
+            }
+          },
           "_anchor": "header2-7",
           "_params": {
             "imageSize": "41",
@@ -179,25 +191,26 @@
           },
           "title": "&nbsp;Who I work with...",
           "text": "My clients are highly motivated entrepreneurs with ambitious goals.  They want to live life on their own terms but may have so much on the go that they may feel overwhelmed and unclear at times.   They undersatnd that in order to grow their business to new heights they must first invest in and grow themselves.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "72px"
-            },
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "SMALL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_anchor": "form1-a",
           "_params": {
             "labelsColor": "#232323",
@@ -243,20 +256,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "SMALL": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>"
         },
         {
           "_tags": [
@@ -464,6 +464,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/whitebrickwall-bright-2000x1378.jpg",
@@ -473,11 +477,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "count": 3,
-            "showImages": false,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "WHAT MY CLIENTS SAY...",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -729,6 +729,25 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "right"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "right",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "right"
+            }
+          },
           "_anchor": "header1-m",
           "_params": {
             "parallax": false,
@@ -751,32 +770,19 @@
           },
           "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Hey, I'm Barbie...</span><br>",
           "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br>I work with ambitious entrepreneurs who have <b>big</b> goals and dreams <br>for their lives and buesinesses but may be held backfrom the next<br> level of sucess by </span>fear, confusion <span style=\"font-style: normal;\">or</span> overwhelm. &nbsp; <span style=\"font-style: normal;\">(Sound Familiar?)</span><br><br><span style=\"font-style: normal;\">I help my clients become crystal clear on their vision, break </span><br><span style=\"font-style: normal;\">through their limiting beliefs, and establish habits crucial to&nbsp;</span><span style=\"font-style: normal;\">levelling </span><br><span style=\"font-style: normal;\">up and reaching the next level of success they desire&nbsp;</span><span style=\"font-style: normal;\">both </span><br><span style=\"font-style: normal;\">personally and professionally. &nbsp;</span><span style=\"font-style: normal;\">We also have a kick-ass</span><span style=\"font-style: normal;\">time doing it.</span><br><br><span style=\"font-style: normal;\">My favourite part of coaching is nudging you out of your&nbsp;</span><br><span style=\"font-style: normal;\">comfort zone (although sometimes I'll lovingly just push you&nbsp;</span><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">right </span><span style=\"font-style: normal;\">out of the plane for your own good) and watching</span><br><span style=\"font-style: normal;\">you grow and transfrom yourself and business simutainously.</span><br><span style=\"font-style: normal;\">It's Magical. &nbsp;I'm not going to lie, I get a little hight form it!</span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">No matter how big your dream, it's totally achievable. &nbsp;</span><br><span style=\"font-style: normal;\">Just follow</span><span style=\"font-style: normal;\">the prcoess and it's yours :)</span><br><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-size": "20px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "right"
-            },
-            ".mbr-section-lead SPAN": {
-              "text-align": "right",
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "msg-box5-n",
           "_params": {
             "imageSize": 50,
@@ -823,13 +829,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "When I'm not coaching amazing clients, I can usually be found training Mauy Thia and Brazilian Jiu Jitsu a few times a day with my amazing family at MAS Academy. <br><br>From mental conditioning and perseverance to habit building, the skills developed in competitive athletics transfer seamlessly into the business world. &nbsp;The better fighter I come, the better entrepreneur I become. &nbsp;The lessons are the same.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
