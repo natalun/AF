@@ -208,7 +208,8 @@
             },
             "SMALL": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#b8312f"
             }
           },
           "_anchor": "form1-a",
