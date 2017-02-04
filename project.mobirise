@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -68,13 +68,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8f2625"
+              "background": "#ca3b18"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ac2e2c!important"
+              "background": "#e44821!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b8312f"
+              "background": "#e6532f"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -96,7 +96,7 @@
           "_name": "menu",
           "_anchor": "menu-f",
           "_params": {
-            "bgColor": "#b8312f",
+            "bgColor": "#e6532f",
             "fontSize": "1.15",
             "fontName": {
               "name": "Lora",
@@ -348,7 +348,7 @@
           "_name": "menu",
           "_anchor": "menu-b",
           "_params": {
-            "bgColor": "#b8312f",
+            "bgColor": "#e6532f",
             "fontSize": "1.15",
             "fontName": {
               "name": "Lora",
@@ -577,13 +577,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#8f2625"
+              "background": "#ca3b18"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ac2e2c!important"
+              "background": "#e44821!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b8312f"
+              "background": "#e6532f"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -605,7 +605,7 @@
           "_name": "menu",
           "_anchor": "menu-f",
           "_params": {
-            "bgColor": "#b8312f",
+            "bgColor": "#e6532f",
             "fontSize": "1.15",
             "fontName": {
               "name": "Lora",
@@ -710,7 +710,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#b8312f"
+              "color": "#e6532f"
             }
           },
           "_tags": [
@@ -721,7 +721,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#b8312f",
+            "bgColor": "#e6532f",
             "showMeta": false
           },
           "title": "f",
@@ -792,10 +792,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whitebrickwall-bright-2000x1378.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
