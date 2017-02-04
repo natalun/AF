@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-03_1735",
-    "currentPage": "connect.html",
+    "currentPage": "successstories.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -469,7 +469,7 @@
             "showName": true,
             "showBio": true,
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/whitebrickwall-bright-2000x1378.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -495,7 +495,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#b8312f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
