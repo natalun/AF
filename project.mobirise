@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -679,8 +679,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-j",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/whitebrickwall-bright-2000x1378.jpg",
@@ -693,13 +693,36 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": false
           },
-          "title": "Hey, I'm Barbie...",
+          "title": "",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#b8312f",
+            "showMeta": false
+          },
+          "title": "f",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -722,12 +745,12 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "<span style=\"font-style: normal;\"><br></span>I work with ambitious entrepreneurs who have big goals <br>and dreams for their lives and buesinesses but may be <br>held backfrom the next level of sucess by fear, confusion <br>or overwhelm. &nbsp; (Sound Familiar?)<br><br><span style=\"font-style: normal;\">I help my clients become crystal clear on their vision, break </span><br><span style=\"font-style: normal;\">through their limiting beliefs, and establish habits crucial to&nbsp;</span><br><span style=\"font-style: normal;\">levelling up and reaching the next level of success they desire</span><br><span style=\"font-style: normal;\">both personally and professionally. &nbsp;We also have a kick-ass</span><br><span style=\"font-style: normal;\">time doing it.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">My favourite part of coaching is nudging you out of your&nbsp;</span><br><span style=\"font-style: normal;\">comfort zone (although sometimes I'll lovingly just push you&nbsp;</span><br><span style=\"font-style: normal;\">right out of the plane for your own good) and watching</span><br><span style=\"font-style: normal;\">you grow and transfrom yourself and business simutainously.</span><br><span style=\"font-style: normal;\">It's Magical. &nbsp;I'm not going to lie, I get a little hight form it!</span><br><span style=\"font-style: normal;\">No matter how big your dream, it's totally achievable. &nbsp;Just follow</span><br><span style=\"font-style: normal;\">the prcoess and it's yours :)<br></span><span style=\"font-style: normal;\"><br></span>",
+          "title": "Hey, I'm Barbie...<br>",
+          "text": "<span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span> work with ambitious entrepreneurs who have big goals <br>and dreams for their lives and buesinesses but may be <br>held backfrom the next level of sucess by fear, confusion <br>or overwhelm. &nbsp; (Sound Familiar?)<br><br><span style=\"font-style: normal;\">I help my clients become crystal clear on their vision, break </span><br><span style=\"font-style: normal;\">through their limiting beliefs, and establish habits crucial to&nbsp;</span><br><span style=\"font-style: normal;\">levelling up and reaching the next level of success they desire</span><br><span style=\"font-style: normal;\">both personally and professionally. &nbsp;We also have a kick-ass</span><br><span style=\"font-style: normal;\">time doing it.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">My favourite part of coaching is nudging you out of your&nbsp;</span><br><span style=\"font-style: normal;\">comfort zone (although sometimes I'll lovingly just push you&nbsp;</span><br><span style=\"font-style: normal;\">right out of the plane for your own good) and watching</span><br><span style=\"font-style: normal;\">you grow and transfrom yourself and business simutainously.</span><br><span style=\"font-style: normal;\">It's Magical. &nbsp;I'm not going to lie, I get a little hight form it!</span><br><span style=\"font-style: normal;\">No matter how big your dream, it's totally achievable. &nbsp;Just follow</span><br><span style=\"font-style: normal;\">the prcoess and it's yours :)<br></span><span style=\"font-style: normal;\"><br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-lead": {
@@ -738,6 +761,12 @@
               "text-align": "right"
             },
             ".mbr-section-lead SPAN": {
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "right"
             }
           }
