@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AF",
-    "currentPage": "connect.html",
+    "currentPage": "successstories.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -498,7 +498,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
