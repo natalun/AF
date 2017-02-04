@@ -1052,7 +1052,7 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "color": "#e55700",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
